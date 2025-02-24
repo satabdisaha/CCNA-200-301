@@ -1,7 +1,7 @@
-# Networking Lab - OSPF, Static Route, Default Route, EIGRP (Packet Tracer)
+# Networking Lab - CCNA 200-301 (Packet Tracer)
 
 ## Overview
-This repository contains a Packet Tracer lab setup for testing and configuring various routing protocols and techniques, including **OSPF (Open Shortest Path First)**, **EIGRP (Enhanced Interior Gateway Routing Protocol)**, **Static Routes**, and **Default Routes**. The configurations in this lab are designed to provide hands-on experience with these routing concepts using Cisco Packet Tracer.
+This repository contains a Packet Tracer lab setup for testing and configuring various routing, switching, VPN, security protocols and techniques, including **OSPF (Open Shortest Path First)**, **EIGRP (Enhanced Interior Gateway Routing Protocol)**, **Static Routes**, and **Default Routes**. The configurations in this lab are designed to provide hands-on experience with these routing concepts using Cisco Packet Tracer.
 
 ## Table of Contents
 - [Lab Topology](#lab-topology)
@@ -23,7 +23,8 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
 *(You can include a diagram of your topology here or describe how each device is connected.)*
 
 
-##Static routes are manually configured and are commonly used for routing traffic between remote networks or in simpler network setups.
+##Static Route
+Static routes are manually configured and are commonly used for routing traffic between remote networks or in simpler network setups.
 
 Key Features: Static routes require the manual addition of each route into the routing table. They do not change unless manually reconfigured.
 Common Use Cases: Useful for smaller networks or when precise control over routing is needed.
