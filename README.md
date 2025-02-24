@@ -22,17 +22,22 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
 
 *(You can include a diagram of your topology here or describe how each device is connected.)*
 
+
+##Static routes are manually configured and are commonly used for routing traffic between remote networks or in simpler network setups.
+
+Key Features: Static routes require the manual addition of each route into the routing table. They do not change unless manually reconfigured.
+Common Use Cases: Useful for smaller networks or when precise control over routing is needed.
+Lab Focus: Implementing static routes to control traffic flow to specific destinations.
+ **Use in Lab**: Static routes are set up between the routers to ensure that specific traffic follows predefined paths.
+
+
 ## OSPF Configuration
 Open Shortest Path First (OSPF) is configured in this lab to establish routing between routers.
 
 - **Purpose**: To simulate dynamic routing and observe how OSPF operates across multiple routers.
 - **Use in Lab**: This section of the lab demonstrates how OSPF propagates routing information across the network and adapts to topology changes.
 
-## Static Routes
-Static routes are configured to manually route traffic to specific networks.
 
-- **Purpose**: To show how manual routing can be used for simple and controlled network environments.
-- **Use in Lab**: Static routes are set up between the routers to ensure that specific traffic follows predefined paths.
 
 ## Default Route
 The default route is configured to ensure that any traffic destined for unknown networks is forwarded to a specific gateway.
