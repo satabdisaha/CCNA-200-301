@@ -9,8 +9,7 @@ This repository contains a Packet Tracer lab setup for testing and configuring v
 - [Static Routes](#static-routes)
 - [Default Route](#default-route)
 - [EIGRP Configuration](#eigrp-configuration)
-- [How to Use the Packet Tracer Lab](#how-to-use-the-packet-tracer-lab)
-- [License](#license)
+
 
 ## Lab Topology
 This lab contains a simple network topology designed to demonstrate OSPF, EIGRP, static routes, and default routes. The network consists of routers, switches, and PCs, interconnected as follows:
