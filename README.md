@@ -52,28 +52,4 @@ Enhanced Interior Gateway Routing Protocol (EIGRP) is used in this lab to demons
 - **Purpose**: To observe EIGRP’s faster convergence and better scalability compared to traditional distance-vector protocols.
 - **Use in Lab**: EIGRP configurations allow for quick path selection and optimal routing within the lab’s network.
 
-## How to Use the Packet Tracer Lab
-Follow these instructions to set up and use the lab in Cisco Packet Tracer:
 
-1. **Download Packet Tracer**:
-   - If you don't have Cisco Packet Tracer, download it from Cisco’s website or access it through Cisco Networking Academy.
-   
-2. **Clone or Download the Repository**:
-   - Clone or download this repository to access the Packet Tracer file and any necessary documentation.
-   
-3. **Open the Packet Tracer File**:
-   - Open the `.pkt` (Packet Tracer) file included in this repository. It contains the network topology with pre-configured devices.
-   
-4. **Verify the Configuration**:
-   - Check that all routers, switches, and PCs are connected correctly as per the topology.
-   - Verify that each router has the appropriate routing protocol (OSPF, EIGRP, Static, and Default Routes) configured.
-   
-5. **Test Connectivity**:
-   - Use `ping` or `traceroute` commands from PCs to test if the network routes are functioning correctly.
-   - Observe the routing tables in the routers to ensure that routes are learned correctly.
-
-6. **Modify the Network**:
-   - Feel free to make changes, such as modifying IP addresses, adding new routers or switches, or altering the routing configurations to test how the network adapts to these changes.
-
-## License
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
