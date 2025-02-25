@@ -40,7 +40,12 @@ Static routes are manually configured and are commonly used for routing traffic 
 Key Features: Static routes require the manual addition of each route into the routing table. They do not change unless manually reconfigured.
 Common Use Cases: Useful for smaller networks or when precise control over routing is needed.
 Lab Focus: Implementing static routes to control traffic flow to specific destinations.
- **Use in Lab**: Static routes are set up between the routers to ensure that specific traffic follows predefined paths.
+ **Use in Lab**: Static routes are set up between the routers to ensure that specific traffic follows predefined paths.<br>
+ <p align="center">
+  <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/Static%20route.png">
+</p>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫<br>
+<br>
 
 
 ## OSPF Configuration
