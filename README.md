@@ -22,6 +22,18 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
   - PCs are used as endpoints to test connectivity across the network.
 
 
+
+
+##RIP
+
+<b><u>RIPv2</u</b><br>
+<p align="center">
+  <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/RIPv2.png" alt="Let's Get Started">
+</p>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫<br>
+<br>
+
+
 ## Static Route
 Static routes are manually configured and are commonly used for routing traffic between remote networks or in simpler network setups.
 
