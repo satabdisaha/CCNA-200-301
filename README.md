@@ -5,10 +5,12 @@ This repository contains a Packet Tracer lab setup for testing and configuring v
 
 ## Table of Contents
 - [Lab Topology](#lab-topology)
+-  [Static Routes](#static-routes)
 - [OSPF Configuration](#ospf-configuration)
-- [Static Routes](#static-routes)
-- [Default Route](#default-route)
 - [EIGRP Configuration](#eigrp-configuration)
+
+- [Default Route](#default-route)
+- 
 
 
 ## Lab Topology
@@ -18,8 +20,6 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
   - Multiple routers connected in either a hub-and-spoke or full mesh configuration.
   - Each router is configured to test and compare different routing protocols.
   - PCs are used as endpoints to test connectivity across the network.
-
-*(You can include a diagram of your topology here or describe how each device is connected.)*
 
 
 ## Static Route
