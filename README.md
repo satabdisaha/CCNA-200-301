@@ -6,10 +6,18 @@ This repository contains a Packet Tracer lab setup for testing and configuring v
 ## Table of Contents
 - [Lab Topology](#lab-topology)
 -  [Static Routes](#static-routes)
+-  [Default Route](#default-route)
+- [RIP Configuration](#rip-configuration)
 - [OSPF Configuration](#ospf-configuration)
 - [EIGRP Configuration](#eigrp-configuration)
+- [VLAN](#vlan)
+- [Inter VLAN](#inter-vlan)
+- [VTP](#vtp)
+- [STP](#stp)
+- [ACL](#acl)
+- [NAT](NAT)
 
-- [Default Route](#default-route)
+
 - 
 
 
