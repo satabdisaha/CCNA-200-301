@@ -55,8 +55,8 @@ OSPF (Open Shortest Path First)<br>
 <b>LSAs (Link-State Advertisements):</b> These are used to share routing information between routers.
 <b>Usage:</b> Best for larger networks due to its ability to scale with multiple areas and compllex topologies.<br>
 
+## OSPFv2
 
-<b><u>OSPFv2</u></b>
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/OSPFv2.png" alt="Let's Get Started">
 </p>
@@ -65,18 +65,18 @@ OSPF (Open Shortest Path First)<br>
 
 
 
-<b><u>Multiarea OSPFv2</u></b><br>
+## Multiarea OSPFv2
 <b><u>OSPFv2</u></b>
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/multiarea%20ospf.png" alt="Let's Get Started">
 </p>
 ## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/Multiarea%20OSPF/multiarea%20ospf.pkt)  🔫<br>
 
-<b><u>OSPFv2</u></b>
+## OSPFv3
 <p align="center">
-  <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/OSPFv2.png" alt="Let's Get Started">
+  <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/OSPFv3.png" alt="Let's Get Started">
 </p>
-## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫<br>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/tree/main/CCNA_200-301/OSPF%20IPV6)  🔫<br>
 <br>
 
 ## EIGRP (Enhanced Interior Gateway Routing Protocol)
