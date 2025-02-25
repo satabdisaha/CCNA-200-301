@@ -33,7 +33,7 @@ Lab Focus: Implementing static routes to control traffic flow to specific destin
 
 ## OSPF Configuration
 OSPF (Open Shortest Path First)
-Overview: OSPF is a link-state routing protocol that uses the Dijkstra algorithm to find the shortest path. It is commonly used in larger networks due to its scalability and fast convergence.
+<b>Overview:</b> OSPF is a link-state routing protocol that uses the Dijkstra algorithm to find the shortest path. It is commonly used in larger networks due to its scalability and fast convergence.
 Key Concepts:
 Stub Area, Totally Stubby Area, Not So Stubby Area (NSSA)
 LSAs (Link-State Advertisements): These are used to share routing information between routers.
