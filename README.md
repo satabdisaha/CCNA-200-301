@@ -26,7 +26,7 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
 
 ##RIP
 
-<b><u>RIPv2</u</b><br>
+<b><u>RIPv2</u></b><br>
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/RIPv2.png" alt="Let's Get Started">
 </p>
