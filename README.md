@@ -22,7 +22,7 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
 *(You can include a diagram of your topology here or describe how each device is connected.)*
 
 
-##Static Route
+## Static Route
 Static routes are manually configured and are commonly used for routing traffic between remote networks or in simpler network setups.
 
 Key Features: Static routes require the manual addition of each route into the routing table. They do not change unless manually reconfigured.
