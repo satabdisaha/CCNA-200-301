@@ -32,16 +32,21 @@ Lab Focus: Implementing static routes to control traffic flow to specific destin
 
 
 ## OSPF Configuration
-OSPF (Open Shortest Path First)
-<b>Overview:</b> OSPF is a link-state routing protocol that uses the Dijkstra algorithm to find the shortest path. It is commonly used in larger networks due to its scalability and fast convergence.
-Key Concepts:
-Stub Area, Totally Stubby Area, Not So Stubby Area (NSSA)
-LSAs (Link-State Advertisements): These are used to share routing information between routers.
-Usage: Best for larger networks due to its ability to scale with multiple areas and compllex topologies.
+OSPF (Open Shortest Path First)<br>
+<b>Overview:</b> OSPF is a link-state routing protocol that uses the Dijkstra algorithm to find the shortest path. It is commonly used in larger networks due to its scalability and fast convergence.<br>
+<b>Key Concepts:</b>
+<b>LSAs (Link-State Advertisements):</b> These are used to share routing information between routers.
+<b>Usage:</b> Best for larger networks due to its ability to scale with multiple areas and compllex topologies.<br>
+
+
+<b><u>OSPFv2</u></b>
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/Screenshot%202025-02-25%20120406.png" alt="Let's Get Started">
 </p>
-## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫<br>
+
+<b><u>Multiarea OSPFv2</u></b>
+
 
 ## EIGRP (Enhanced Interior Gateway Routing Protocol)
 Overview: EIGRP is a hybrid protocol, combining the advantages of both distance-vector and link-state protocols. It is faster and more efficient than RIP (Routing Information Protocol) due to its use of Diffusing Update Algorithm (DUAL).
