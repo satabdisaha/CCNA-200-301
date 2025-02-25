@@ -101,6 +101,11 @@ The default route is configured to ensure that any traffic destined for unknown 
 
 - **Purpose**: To route any unmatched traffic to a central router or gateway.
 - **Use in Lab**: The default route ensures that traffic without an explicit route is forwarded correctly, simulating a real-world gateway setup.
+- 
+- <p align="center">
+  <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/Default%20Route.png" alt="Let's Get Started">
+</p>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/EIGRP.png)  🔫<br>
 
 ## VLANs (Virtual Local Area Networks)
 Overview: VLANs are used to logically segment networks into different broadcast domains. VLANs improve security, performance, and network management.
