@@ -30,7 +30,7 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/RIPv2.png" alt="Let's Get Started">
 </p>
-## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫<br>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/RIPv2/RIPv2.pkt)  🔫<br>
 <br>
 
 
