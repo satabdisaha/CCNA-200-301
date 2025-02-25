@@ -40,7 +40,7 @@ LSAs (Link-State Advertisements): These are used to share routing information be
 Usage: Best for larger networks due to its ability to scale with multiple areas and compllex topologies.
 
 
-##EIGRP (Enhanced Interior Gateway Routing Protocol)
+## EIGRP (Enhanced Interior Gateway Routing Protocol)
 Overview: EIGRP is a hybrid protocol, combining the advantages of both distance-vector and link-state protocols. It is faster and more efficient than RIP (Routing Information Protocol) due to its use of Diffusing Update Algorithm (DUAL).
 Key Concepts:
 Metric: EIGRP uses bandwidth, delay, load, and reliability to calculate the best path.
