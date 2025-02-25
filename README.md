@@ -74,6 +74,13 @@ Metric: EIGRP uses bandwidth, delay, load, and reliability to calculate the best
 Feasible Successor: A backup route stored in the routing table for quicker recovery.
 Authentication: EIGRP supports MD5 authentication to secure routing information.
 Usage: EIGRP is ideal for medium-to-large-sized networks with fast convergence and low overhead.
+<br>
+<b><u>OSPFv2</u></b>
+<p align="center">
+  <img src="" alt="Let's Get Started">
+</p>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/EIGRP.png)  🔫<br>
+
 
 
 ## Default Route
