@@ -41,6 +41,7 @@ Usage: Best for larger networks due to its ability to scale with multiple areas 
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/Screenshot%202025-02-25%20120406.png" alt="Let's Get Started">
 </p>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫
 
 ## EIGRP (Enhanced Interior Gateway Routing Protocol)
 Overview: EIGRP is a hybrid protocol, combining the advantages of both distance-vector and link-state protocols. It is faster and more efficient than RIP (Routing Information Protocol) due to its use of Diffusing Update Algorithm (DUAL).
