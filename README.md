@@ -44,7 +44,7 @@ Lab Focus: Implementing static routes to control traffic flow to specific destin
  <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/Static%20route.png">
 </p>
-## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/OSPFv2/OSPFv2.pkt)  🔫<br>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/tree/main/CCNA_200-301/STATIC)  🔫<br>
 <br>
 
 
