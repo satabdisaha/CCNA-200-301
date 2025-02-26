@@ -99,7 +99,7 @@ Usage: EIGRP is ideal for medium-to-large-sized networks with fast convergence a
 <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/EIGRP.png" alt="Let's Get Started">
 </p>
-## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/EIGRP.png)  🔫<br>
+## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/EIGRP.pkt)  🔫<br>
 
 
 
