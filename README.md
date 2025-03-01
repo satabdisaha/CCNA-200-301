@@ -24,16 +24,6 @@ Networking is the backbone of the modern world, enabling the internet and making
 - [NAT](NAT)
 
 
-- 
-
-
-## Lab Topology
-This lab contains a simple network topology designed to demonstrate OSPF, EIGRP, static routes, and default routes. The network consists of routers, switches, and PCs, interconnected as follows:
-
-- **Topology Details**: 
-  - Multiple routers connected in either a hub-and-spoke or full mesh configuration.
-  - Each router is configured to test and compare different routing protocols.
-  - PCs are used as endpoints to test connectivity across the network.
 
 
 ## Routing
