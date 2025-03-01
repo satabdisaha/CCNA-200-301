@@ -29,7 +29,7 @@ Networking is the backbone of the modern world, enabling the internet and making
 ## Routing
 Routing is like finding the best path for data to travel from one place to another. It enables data to travel from the North Pole to the South Pole and beyond. Routing protocols such as OSPF, RIP, EIGRP, BGP, Static Routing, and Default Routing determine the most efficient route for data to reach its destination.
 
-##RIP
+## RIP
 
 <b><u>RIPv2</u></b><br>
 <p align="center">
