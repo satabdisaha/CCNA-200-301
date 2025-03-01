@@ -116,7 +116,8 @@ The default route is configured to ensure that any traffic destined for unknown 
 </p>
 ## 📁Download Topology :   [Click Here]( https://github.com/satabdisaha/CCNA-200-301/tree/main/CCNA_200-301/default%20route)  🔫<br>
 
-## BGP
+## BGP(Border Gateway Protocol)
+BGP is a border gateway protocol that enables the internet to exchange routing information between autonomous systems (AS).
 
 
 
