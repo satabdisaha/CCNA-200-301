@@ -28,7 +28,7 @@ Networking is the backbone of the modern world, enabling the internet and making
 
 ## Routing
 Routing is like finding the best path for data to travel from one place to another. It enables data to travel from the North Pole to the South Pole and beyond. Routing protocols such as OSPF, RIP, EIGRP, BGP, Static Routing, and Default Routing determine the most efficient route for data to reach its destination.
-
+<sub>
 ## RIP
 
 <b><u>RIPv2</u></b><br>
@@ -121,7 +121,7 @@ BGP is a border gateway protocol that enables the internet to exchange routing i
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/BGP.png" alt="Let's Get Started">
 </p>
 ## 📁Download Topology :   [Click Here]( https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/BGP/BGP.pk)  🔫<br>
-
+</sub>
 ## Switching
 Switching, or Layer 2 networking, is crucial for managing the data flow within a local area network (LAN). Switches work by learning and storing the MAC addresses of devices connected to them. They utilize technologies like VLANs, Inter-VLAN Routing, STP, RSTP, PortFast, EtherChannel, and Trunking. The MAC Address Table helps in making forwarding decisions for network traffic.<br>
 
