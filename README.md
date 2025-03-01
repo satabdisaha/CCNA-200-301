@@ -36,7 +36,8 @@ This lab contains a simple network topology designed to demonstrate OSPF, EIGRP,
   - PCs are used as endpoints to test connectivity across the network.
 
 
-
+## Routing
+Routing is like finding the best path for data to travel from one place to another. It enables data to travel from the North Pole to the South Pole and beyond. Routing protocols such as OSPF, RIP, EIGRP, BGP, Static Routing, and Default Routing determine the most efficient route for data to reach its destination.
 
 ##RIP
 
@@ -131,7 +132,8 @@ BGP is a border gateway protocol that enables the internet to exchange routing i
 </p>
 ## 📁Download Topology :   [Click Here]( https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/BGP/BGP.pk)  🔫<br>
 
-
+## Switching
+Switching, or Layer 2 networking, is crucial for managing the data flow within a local area network (LAN). Switches work by learning and storing the MAC addresses of devices connected to them. They utilize technologies like VLANs, Inter-VLAN Routing, STP, RSTP, PortFast, EtherChannel, and Trunking. The MAC Address Table helps in making forwarding decisions for network traffic.<br>
 
 ## VLANs (Virtual Local Area Networks)
 Overview: VLANs are used to logically segment networks into different broadcast domains. VLANs improve security, performance, and network management.
@@ -146,7 +148,7 @@ Usage: VLANs enhance network performance and segmentation. Trunk links allow mul
 ## 📁Download Topology :   [Click Here]( https://github.com/satabdisaha/CCNA-200-301/tree/main/CCNA_200-301/VLAN)  🔫<br>
 
 
-## Switching and STP (Spanning Tree Protocol)
+##  STP (Spanning Tree Protocol)
 Overview: STP is used to prevent loops in a switched network by blocking redundant paths. The protocol uses the Bridge Protocol Data Units (BPDU) to elect the root bridge and determine which paths to block.
 Key Concepts:
 Port States: Blocking, Listening, Learning, Forwarding
@@ -154,7 +156,26 @@ Root Bridge Election: The switch with the lowest bridge priority or MAC address 
 RSTP (Rapid Spanning Tree Protocol): An enhanced version of STP that converges faster.
 Usage: STP prevents broadcast storms and network loops in Layer 2 networks.
 
-## ACLs (Access Control Lists)
+## EtherChannel (Link Aggregation)
+Overview: EtherChannel combines multiple physical links into a single logical link to increase bandwidth and provide redundancy.
+Key Concepts:
+Protocols: PAgP (Port Aggregation Protocol), LACP (Link Aggregation Control Protocol)
+
+Usage: EtherChannel is used to increase bandwidth and provide redundancy between switches and routers.
+
+## VPN and Tunneling
+To maintain the confidentiality, integrity, and authenticity of data, configuring IPSec VPN is crucial. This protocol encrypts the data, transforming it into ciphertext to ensure its security during transmission.
+When transferring data across different locations, creating a secure tunnel is essential. A tunnel provides a virtual point-to-point connection while ensuring data security. Technologies like GRE Tunnels and IPSec VPN Tunnels are used to achieve this. In fact, there are combinations of these two, such as IPSec VPN over GRE and GRE over IPSec VPN, which offer both encryption and encapsulation.<br>
+Key Concepts:<br>
+IPsec: Provides encryption and secure tunneling for VPNs.<br>
+GRE Tunnels: Used to create point-to-point connections over IP networks.
+
+## Network Security
+Data is one of the most important assets for any individual or organization, making it essential to protect it. One key security feature is ACL (Access Control Lists), which ensures that only authorized users and devices can access specific resources or visit certain websites.<br>
+
+Physical layer security also requires the proper configuration of network devices, such as switch port security, syslog, password policies, and device protection to prevent unauthorized access.
+
+## ACL (Access Control Lists)
 Overview: ACLs are used to filter network traffic based on source IP, destination IP, or other attributes. They provide security by controlling which traffic is allowed or denied to/from a network.
 Key Concepts:
 Standard ACLs: Filter traffic based on the source IP address only.
@@ -171,24 +192,11 @@ Dynamic NAT: Maps private IPs to a pool of public IPs.
 PAT (Port Address Translation): A form of dynamic NAT where multiple priCommand: ip nat inside source list [ACL] interface [interface] overload
 Usage: NAT is used extensively in home and corporate networks to provide internet access to devices with private IPs.
 
-## DHCP (Dynamic Host Configuration Protocol)
-Overview: DHCP automatically assigns IP addresses and other network configurations to devices on a network, simplifying network management.
-Key Concepts:
-DHCP Pool: A range of IP addresses that the DHCP server can assign.
-DHCP Relay: Allows DHCP clients to receive configuration information from a remote DHCP server.
-DHCPv6: Provides similar functionality for IPv6 addresses.
-Usage: DHCP reduces manual configuration and simplifies network management.
+## DHCP and DNS
+DHCP (Dynamic Host Configuration Protocol) automates the process of assigning IP addresses to devices, reducing the need for manual IP configuration and saving time. <br>
+DNS (Domain Name System) translates domain names to IP addresses, making it easier for users to access websites without needing to remember complex numerical IP addresses.
 
-## EtherChannel (Link Aggregation)
-Overview: EtherChannel combines multiple physical links into a single logical link to increase bandwidth and provide redundancy.
-Key Concepts:
-Protocols: PAgP (Port Aggregation Protocol), LACP (Link Aggregation Control Protocol)
+## Remote Access
+In the year 2025, working from home has become a popular concept. To make networking devices accessible from anywhere, protocols like Telnet and SSH are essential. These technologies allow for remote management of network devices, ensuring that they can be accessed securely from any location.
 
-Usage: EtherChannel is used to increase bandwidth and provide redundancy between switches and routers.
 
-## VPN (Virtual Private Network)
-Overview: VPNs provide secure communication over an insecure network (like the internet). VPNs are used to encrypt data and ensure privacy between remote sites or users and the main network.
-Key Concepts:
-IPsec: Provides encryption and secure tunneling for VPNs.
-GRE Tunnels: Used to create point-to-point connections over IP networks.
-Usage: VPNs are essential for securely connecting remote users or branch offices to a corporate network.
