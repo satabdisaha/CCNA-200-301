@@ -1,7 +1,12 @@
 # Networking Lab - CCNA 200-301 (Packet Tracer)
 
 ## Overview
-This repository contains a Packet Tracer lab setup for testing and configuring various routing, switching, VPN, security protocols and techniques, including **OSPF (Open Shortest Path First)**, **EIGRP (Enhanced Interior Gateway Routing Protocol)**, **Static Routes**, and **Default Routes**. The configurations in this lab are designed to provide hands-on experience with these routing concepts using Cisco Packet Tracer.
+This repository contains a Packet Tracer lab setup for testing and configuring various concepts of the CCNA 200-301 exam. <br>
+
+Networking is the backbone of the modern world, enabling the internet and making data accessible globally in seconds. It has shaped the world as we know it today. In this repository, I will showcase various routing and switching technologies, demonstrating my knowledge, skills, and passion for networking.
+
+
+
 
 ## Table of Contents
 - [Lab Topology](#lab-topology)
