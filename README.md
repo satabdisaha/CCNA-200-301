@@ -10,6 +10,7 @@ This repository contains a Packet Tracer lab setup for testing and configuring v
 - [RIP Configuration](#rip-configuration)
 - [OSPF Configuration](#ospf-configuration)
 - [EIGRP Configuration](#eigrp-configuration)
+- [BGP](BGP)
 - [VLAN](#vlan)
 - [Inter VLAN](#inter-vlan)
 - [VTP](#vtp)
