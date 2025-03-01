@@ -113,7 +113,7 @@ The default route is configured to ensure that any traffic destined for unknown 
 - <p align="center">
   <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/Default%20Route.png" alt="Let's Get Started">
 </p>
-## 📁Download Topology :   [Click Here](https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/EIGRP.png)  🔫<br>
+## 📁Download Topology :   [Click Here]( https://github.com/satabdisaha/CCNA-200-301/tree/main/CCNA_200-301/default%20route)  🔫<br>
 
 ## VLANs (Virtual Local Area Networks)
 Overview: VLANs are used to logically segment networks into different broadcast domains. VLANs improve security, performance, and network management.
