@@ -122,6 +122,12 @@ Trunking: switchport mode trunk, switchport trunk encapsulation dot1q
 VTP (VLAN Trunking Protocol): Helps manage VLANs across multiple switches. It can operate in Server, Client, and Transparent modes.
 Usage: VLANs enhance network performance and segmentation. Trunk links allow multiple VLANs to be transmitted over a single physical link.
 
+<p align="center">
+  <img src="https://github.com/satabdisaha/CCNA-200-301/blob/main/CCNA_200-301/img/VLAN.png" alt="Let's Get Started">
+</p>
+## 📁Download Topology :   [Click Here]( https://github.com/satabdisaha/CCNA-200-301/tree/main/CCNA_200-301/VLAN)  🔫<br>
+
+
 ## Switching and STP (Spanning Tree Protocol)
 Overview: STP is used to prevent loops in a switched network by blocking redundant paths. The protocol uses the Bridge Protocol Data Units (BPDU) to elect the root bridge and determine which paths to block.
 Key Concepts:
