@@ -149,7 +149,7 @@ Root Bridge Election: The switch with the lowest bridge priority or MAC address 
 RSTP (Rapid Spanning Tree Protocol): An enhanced version of STP that converges faster.
 Usage: STP prevents broadcast storms and network loops in Layer 2 networks.
 
-##ACLs (Access Control Lists)
+## ACLs (Access Control Lists)
 Overview: ACLs are used to filter network traffic based on source IP, destination IP, or other attributes. They provide security by controlling which traffic is allowed or denied to/from a network.
 Key Concepts:
 Standard ACLs: Filter traffic based on the source IP address only.
